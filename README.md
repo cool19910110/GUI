@@ -17,5 +17,9 @@
 
 55555
 
+<<<<<<< HEAD
 
 after idea branch
+=======
+idea1
+>>>>>>> idea
